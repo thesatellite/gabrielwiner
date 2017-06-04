@@ -58,7 +58,8 @@ sup {
   font-weight:500;
   font-size:15px;
   margin-top: 11px;
-  letter-spacing: 0px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
 }
 .page {
     margin: 0 5% 70px 5%;
