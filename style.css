@@ -50,7 +50,7 @@ sup {
   display:flex;justify-content: space-between;
 }
 .navtext{
-  margin-top: 17px;
+  margin: 17px 0 0 20px;
   flex: 0 1 auto;
 }
 .logo{
