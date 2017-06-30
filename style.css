@@ -58,11 +58,11 @@ sup {
   flex: 0 1 auto;
 }
 .logo{
-  font-family:Prociono, serif;
-  font-weight:500;
-  font-size:15px;
+  font-family:Merriweather, serif;
+  font-weight:400;
+  font-size:16px;
   margin-top: 11px;
-  text-transform: uppercase;
+  line-spacing: 0px;
 }
 .page {
     margin: 0 5% 70px 5%;
