@@ -76,15 +76,19 @@ sup {
 }
 
 .thumb {
-    padding: 30px;
-    flex: 0 1 300px;
+    padding: 40px;
+    flex: 0 1 200px;
 }
 
 .medium {
-    flex: 0 1 400px;
+    flex: 0 1 300px;
 }
 
 .large {
+    flex: 0 1 400px;
+}
+
+.xlarge {
     flex: 0 1 500px;
 }
 
