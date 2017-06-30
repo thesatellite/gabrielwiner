@@ -82,7 +82,7 @@ sup {
 }
 
 .landscape {
-    flex: 0 2 320px;
+    flex: 2 1 100%;
 }
 
 
