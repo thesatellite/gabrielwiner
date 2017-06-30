@@ -77,11 +77,11 @@ sup {
 
 .thumb {
     padding: 30px;
-    flex: 1 auto;
+    flex: 0 1 320px;
 }
 
 .landscape {
-    flex: 2 auto;
+    flex: 0 1 640px;
 }
 
 
