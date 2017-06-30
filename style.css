@@ -80,10 +80,13 @@ sup {
     flex: 0 1 300px;
 }
 
-.landscape {
-    flex: 0 1 500px;
+.medium {
+    flex: 0 1 400px;
 }
 
+.large {
+    flex: 0 1 500px;
+}
 
 .thumb img {
     width: 100%;
