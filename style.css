@@ -72,16 +72,16 @@ sup {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    align-items: flex-end;
+    align-items: flex-start;
 }
 
 .thumb {
     padding: 30px;
-    flex: 0 1 320px;
+    flex: 0 1 300px;
 }
 
 .landscape {
-    flex: 0 1 640px;
+    flex: 0 1 500px;
 }
 
 
