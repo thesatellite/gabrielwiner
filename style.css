@@ -79,8 +79,12 @@ sup {
 .thumb {
     padding: 30px;
     flex: 0 1 320px;
-
 }
+
+.landscape {
+    flex: 0 2 320px;
+}
+
 
 .thumb img {
     width: 100%;
