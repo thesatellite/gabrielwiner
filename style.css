@@ -24,7 +24,7 @@ p a:link, a:active, a:visited, a:hover {
     padding-top: 50px;
 }
 
-a {
+a, a:link, a:hover, a:active, a:visited {
     text-decoration: none;
     color: inherit;
 }
