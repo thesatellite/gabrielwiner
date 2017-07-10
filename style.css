@@ -116,15 +116,29 @@ sup {
 
 .landscape{
   max-width: 900px;  
+   margin: 0 auto;
 }
 
+.landscape img{
+  max-width: 900px;  
+}
+
+
+
 .portrait{
+  max-width: 600px;  
+    margin: 0 auto;
+}
+
+
+.portrait img{
   max-width: 600px;  
 }
 
 .content_box{
   padding: 30px;
-  max-width: 600px;  
+  max-width: 600px; 
+     margin: 0 auto;
 }
 
 .caption{
