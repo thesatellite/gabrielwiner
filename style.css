@@ -114,18 +114,18 @@ sup {
     
 }
 
-.content_container img{
-  width: 100%;
+.landscape{
+  max-width: 900px;  
+}
+
+.portrait{
+  max-width: 600px;  
 }
 
 .content_box{
   padding: 30px;
   max-width: 600px;  
 }
-
-
-
-
 
 .caption{
   margin:20px 0 20px 0;
