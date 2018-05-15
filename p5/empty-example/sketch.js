@@ -7,11 +7,8 @@ function setup() {
   background(255);
 }
 
-function draw() {
-    line(mouseX, mouseY, pmouseX, pmouseY);
-}
-
 function touchMoved(){
+   line(mouseX, mouseY, pmouseX, pmouseY);
   return false;
 }
 
