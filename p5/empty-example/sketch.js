@@ -1,7 +1,11 @@
 function setup() {
-  // put setup code here
+  createCanvas(710, 400);
+  background(250);
 }
 
 function draw() {
-  // put drawing code here
+  stroke(20);
+  if (mouseIsPressed === true) {
+    line(mouseX, mouseY, pmouseX, pmouseY);
+  }
 }
