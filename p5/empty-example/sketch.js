@@ -1,11 +1,10 @@
 function setup() {
-  createCanvas(windowWidth,windowHeight);
-  background(250);
+ 	createCanvas(displayWidth, displayHeight);
+	strokeWeight(10)
+	stroke(0);
 }
 
-function draw() {
-  stroke(20);
-  if (mouseIsPressed === true) {
-    line(mouseX, mouseY, pmouseX, pmouseY);
-  }
+function touchMoved() {
+	line(mouseX, mouseY, pmouseX, pmouseY);
+	return false;
 }
