@@ -1,10 +1,10 @@
 function setup() {
   createCanvas(windowWidth,windowHeight);
-  background(102);
+  background(250);
 }
 
 function draw() {
-  stroke(255);
+  stroke(20);
   if (mouseIsPressed === true) {
     line(mouseX, mouseY, pmouseX, pmouseY);
   }
